@@ -7,5 +7,5 @@ docker-compose build
 ```
 
 ```
-docker-compose run python python sample.pys
+docker-compose run python python sample.py
 ```
